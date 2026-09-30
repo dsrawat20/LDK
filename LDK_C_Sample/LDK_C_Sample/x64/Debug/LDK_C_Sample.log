@@ -1,0 +1,4 @@
+﻿  LDK_C_Sample.c
+C:\Users\T0214552\source\repos\LDK_C_Sample\LDK_C_Sample\LDK_C_Sample.c(319,10): warning C4013: 'strcspn' undefined; assuming extern returning int
+C:\Users\T0214552\source\repos\LDK_C_Sample\LDK_C_Sample\LDK_C_Sample.c(321,23): warning C4013: 'strlen' undefined; assuming extern returning int
+  LDK_C_Sample.vcxproj -> C:\Users\T0214552\source\repos\LDK_C_Sample\x64\Debug\LDK_C_Sample.exe
