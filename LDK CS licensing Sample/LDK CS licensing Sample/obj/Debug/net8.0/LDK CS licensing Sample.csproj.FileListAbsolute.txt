@@ -1,0 +1,17 @@
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\bin\Debug\net8.0\LDK CS licensing Sample.exe
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\bin\Debug\net8.0\LDK CS licensing Sample.deps.json
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\bin\Debug\net8.0\LDK CS licensing Sample.runtimeconfig.json
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\bin\Debug\net8.0\LDK CS licensing Sample.dll
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\bin\Debug\net8.0\LDK CS licensing Sample.pdb
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\obj\Debug\net8.0\LDK CS licensing Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\obj\Debug\net8.0\LDK CS licensing Sample.AssemblyInfoInputs.cache
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\obj\Debug\net8.0\LDK CS licensing Sample.AssemblyInfo.cs
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\obj\Debug\net8.0\LDK CS licensing Sample.csproj.CoreCompileInputs.cache
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\obj\Debug\net8.0\LDK CS licensing Sample.dll
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\obj\Debug\net8.0\refint\LDK CS licensing Sample.dll
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\obj\Debug\net8.0\LDK CS licensing Sample.pdb
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\obj\Debug\net8.0\LDK CS licensing Sample.genruntimeconfig.cache
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\obj\Debug\net8.0\ref\LDK CS licensing Sample.dll
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\bin\Debug\net8.0\hasp_net_windows.dll
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\obj\Debug\net8.0\LDK CS licensing Sample.csproj.AssemblyReference.cache
+C:\Users\T0214552\source\repos\LDK CS licensing Sample\LDK CS licensing Sample\obj\Debug\net8.0\LDK CS l.26481C4E.Up2Date

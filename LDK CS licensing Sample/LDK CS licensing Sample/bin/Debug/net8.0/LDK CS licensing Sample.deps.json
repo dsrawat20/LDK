@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LDK CS licensing Sample/1.0.0": {
+        "dependencies": {
+          "hasp_net_windows": "10.3.16236.60002"
+        },
+        "runtime": {
+          "LDK CS licensing Sample.dll": {}
+        }
+      },
+      "hasp_net_windows/10.3.16236.60002": {
+        "runtime": {
+          "hasp_net_windows.dll": {
+            "assemblyVersion": "10.3.16236.60002",
+            "fileVersion": "10.3.16236.60002"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LDK CS licensing Sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "hasp_net_windows/10.3.16236.60002": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
